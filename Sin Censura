@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>18 y + | Contenido Exclusivo 🔥</title>
+  <meta name="description" content="Contenido adulto +18 exclusivo. Fotos, videos y chats privados que solo muestro a quien realmente quiere jugar. Solo mayores de 18 años.">
+  
+  <!-- Open Graph para preview en redes -->
+  <meta property="og:title" content="Edwin +18 | Contenido Privado 🔥">
+  <meta property="og:description" content="Entra si eres mayor de edad y te atreves a ver lo que escondo...">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1519741497674-9463a6c0e2bf?auto=format&fit=crop&w=1200&q=80">
+  <meta property="og:type" content="website">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    .hero-bg {
+      background-image: url('https://images.unsplash.com/photo-1519741497674-9463a6c0e2bf?auto=format&fit=crop&w=2000&q=80');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+    }
+    .category-card {
+      transition: all 0.4s ease;
+      overflow: hidden;
+      border: 1px solid rgba(255, 105, 180, 0.3);
+    }
+    .category-card:hover {
+      transform: translateY(-12px);
+      box-shadow: 0 25px 50px rgba(255, 105, 180, 0.4);
+    }
+    .category-img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    .warning {
+      background: rgba(255, 0, 0, 0.2);
+      color: #ff4d4d;
+      padding: 1rem;
+      text-align: center;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body class="bg-zinc-950 text-gray-100 font-sans antialiased">
+
+  <!-- Advertencia +18 fija arriba -->
+  <div class="warning fixed top-0 left-0 right-0 z-50 text-center py-3">
+    🔞 SOLO MAYORES DE 18 AÑOS – CONTENIDO ADULTO EXCLUSIVO
+  </div>
+
+  <!-- Navbar -->
+  <nav class="fixed top-12 w-full bg-black/90 backdrop-blur-md z-50 border-b border-pink-500/30">
+    <div class="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
+      <div class="flex items-center gap-3">
+        <span class="text-3xl font-black tracking-tighter text-pink-400">EDWIN +18</span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero-bg min-h-screen flex items-center relative mt-20">
+    <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/80 to-zinc-950"></div>
+    <div class="relative z-10 text-center px-6 max-w-5xl mx-auto pt-20">
+      <h1 class="text-5xl md:text-7xl font-black tracking-tight leading-tight mb-6">
+        CONTENIDO<br/><span class="text-pink-400">SOLO PARA TI</span>
+      </h1>
+      <p class="text-2xl md:text-3xl text-pink-300 mb-10">
+        Fotos sin censura • Videos privados • Chats que te van a volver loco/a
+      </p>
+      <p class="text-xl text-gray-300 mb-8">
+        Entra si te atreves… y si eres mayor de edad 😈
+      </p>
+    </div>
+  </header>
+
+  <!-- Sección de categorías +18 con imágenes sugerentes -->
+  <section class="py-20 bg-zinc-900">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="text-4xl md:text-5xl font-black text-center mb-16 text-pink-400">
+        Elige tu fantasía
+      </h2>
+      
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 md:gap-8">
+
+        <!-- 1. Fotos Boudoir / Lencería -->
+        <a href="https://tu-sitio-adulto.com/boudoir" target="_blank" rel="noopener noreferrer"
+           class="category-card bg-zinc-800 rounded-3xl flex flex-col">
+          <img src="https://images.unsplash.com/photo-1519741497674-9463a6c0e2bf?auto=format&fit=crop&w=800&q=80" alt="Boudoir sensual" class="category-img">
+          <div class="p-6 text-center flex-1">
+            <h3 class="text-2xl font-bold mb-2">Boudoir & Lencería</h3>
+            <p class="text-gray-400">Fotos íntimas y sugerentes</p>
+          </div>
+        </a>
+
+        <!-- 2. Videos Privados -->
+        <a href="https://tu-sitio-adulto.com/videos" target="_blank" rel="noopener noreferrer"
+           class="category-card bg-zinc-800 rounded-3xl flex flex-col">
+          <img src="https://images.unsplash.com/photo-1604017011826-d3b4c3c70a5e?auto=format&fit=crop&w=800&q=80" alt="Videos sensuales" class="category-img">
+          <div class="p-6 text-center flex-1">
+            <h3 class="text-2xl font-bold mb-2">Videos Exclusivos</h3>
+            <p class="text-gray-400">Contenido que no verás en otro lugar</p>
+          </div>
+        </a>
+
+        <!-- 3. Chats Privados -->
+        <a href="https://tu-sitio-adulto.com/chats" target="_blank" rel="noopener noreferrer"
+           class="category-card bg-zinc-800 rounded-3xl flex flex-col">
+          <img src="https://images.unsplash.com/photo-1516321310764-9f3c9619d7d3?auto=format&fit=crop&w=800&q=80" alt="Chats calientes" class="category-img">
+          <div class="p-6 text-center flex-1">
+            <h3 class="text-2xl font-bold mb-2">Chats Privados</h3>
+            <p class="text-gray-400">Conversaciones sin límites</p>
+          </div>
+        </a>
+
+        <!-- 4. Personalizados -->
+        <a href="https://tu-sitio-adulto.com/personalizados" target="_blank" rel="noopener noreferrer"
+           class="category-card bg-zinc-800 rounded-3xl flex flex-col">
+          <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80" alt="Contenido personalizado" class="category-img">
+          <div class="p-6 text-center flex-1">
+            <h3 class="text-2xl font-bold mb-2">Contenido a Pedido</h3>
+            <p class="text-gray-400">Dime qué quieres y lo hago para ti</p>
+          </div>
+        </a>
+
+        <!-- 5. Fetish / Fantasías -->
+        <a href="https://tu-sitio-adulto.com/fetish" target="_blank" rel="noopener noreferrer"
+           class="category-card bg-zinc-800 rounded-3xl flex flex-col">
+          <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80" alt="Fetish sensual" class="category-img">
+          <div class="p-6 text-center flex-1">
+            <h3 class="text-2xl font-bold mb-2">Fetish & Fantasías</h3>
+            <p class="text-gray-400">Tus deseos más ocultos</p>
+          </div>
+        </a>
+
+        <!-- 6. Packs Exclusivos -->
+        <a href="https://tu-sitio-adulto.com/packs" target="_blank" rel="noopener noreferrer"
+           class="category-card bg-zinc-800 rounded-3xl flex flex-col">
+          <img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80" alt="Packs exclusivos" class="category-img">
+          <div class="p-6 text-center flex-1">
+            <h3 class="text-2xl font-bold mb-2">Packs Especiales</h3>
+            <p class="text-gray-400">Colecciones completas y únicas</p>
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black py-12 text-center text-gray-400 text-sm border-t border-pink-500/20">
+    <p class="warning text-red-400 font-bold mb-4">
+      🔞 ESTRICTAMENTE MAYORES DE 18 AÑOS – CONTENIDO ADULTO
+    </p>
+    <p>Enlaces privados • Acceso exclusivo • Contenido que solo muestro aquí ❤️‍🔥</p>
+    <p class="mt-4">© 2026 18 y + – xxx </p>
+  </footer>
+
+</body>
+</html>
